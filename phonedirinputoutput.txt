@@ -1,0 +1,4 @@
+Stores the contacts in a file named database.txt
+First word is the name,second is the organisation,third is phone number,fouth is pin code and fifth is the state
+The length of words should not exceed 19
+Use gcc phonedir.c to compile and run a.out
